@@ -1,0 +1,24 @@
+{
+    "name": "zoom-parser",
+    "version": "1.0.0",
+    "description": "Simple Zoom SRT file parser",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "body-parser": "1.19.2",
+      "express": "^4.17.3",
+      "raw-body": "2.5.1"
+    },
+    "engines": {
+      "node": "16.x"
+    },
+    "license": "MIT",
+    "keywords": [
+      "node",
+      "glitch",
+      "express"
+    ]
+  }
+  
